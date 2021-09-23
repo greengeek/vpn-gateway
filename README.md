@@ -1,2 +1,2 @@
 # vpn-gateway
-VPN Gateway that allows all devices to utilize a VPN connection
+Working VPN Gateway that I created to allow me to connect all devices in my security home lab to a CTF provider like HackTheBox or TryHackMe and still be able to capture the traffic for blue team analysis.  Sharing notes I took while creating it.  This setup includes DHCP and DNS.  DNS and DHCP settings can be left out and it will still work.  I will post a full write up on how to set this up with both DNS and DHCP as well as a standalone for those that already have the services when time permits.  
